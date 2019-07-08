@@ -1,0 +1,23 @@
+{
+  "name": "node-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "i": "^0.3.6",
+    "jest": "^24.8.0",
+    "npm": "^6.10.0",
+    "queue-fifo": "^0.2.6",
+    "stack-ds": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
